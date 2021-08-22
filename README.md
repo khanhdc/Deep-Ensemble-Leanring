@@ -35,13 +35,13 @@ The director of this git was set as below:
 |    |     |
 |    |     |-- DL_model_Bagging_Numeric
 |    |     |-- Result_OverIteration_Bagging_Numeric
-|    |     |-- Bagging_On_DL_HeartRate.ipynb
+|    |     |-- Stack_HeartDesease.ipynb
 |    |
 |    |-- Depress_TimeSeries_Data
 |          |
 |          |-- DL_model_Bagging
 |          |-- Result_OverIteration_Bagging_Numeric
-|          |--Bagging with Timeseries_WithAttention.ipynb
+|          |-- Stacking_With_Timeseries_ipynb.ipynb
 |
 |-- Gradient Deep Learning Boosting
      |
