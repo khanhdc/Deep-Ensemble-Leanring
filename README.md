@@ -37,9 +37,9 @@ The director of this git was set as below:
 |    |     |-- Result_OverIteration_Bagging_Numeric
 |    |     |-- Stack_HeartDesease.ipynb
 |    |
-|    |-- Depress_TimeSeries_Data
+|    |-- TimeSeries_Data [Depresjon]
 |          |
-|          |-- DL_model_Bagging
+|          |-- models
 |          |-- Result_OverIteration_Bagging_Numeric
 |          |-- Stacking_With_Timeseries_ipynb.ipynb
 |
