@@ -1,7 +1,16 @@
 # Deep-Ensemble-Leanring
 The Deep Ensemble Learning Approaches
 The director of this git was set as below:
-> |
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+
+|
 |-- Deep Aggregation Learning/
 |    |
 |    |-- Image_Data [XRay]/
