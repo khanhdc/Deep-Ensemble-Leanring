@@ -2,6 +2,26 @@
 The Deep Ensemble Learning Approaches and the director of this git was set as below:
 ```
 |
+|-- Dataset
+|    |
+|    |-- heart.dat
+|    |-- Depresjon
+|    |     |
+|    |     |-- condition
+|    |     |-- control
+|    |
+|    |-- chest_xray
+|          |
+|          |-- test
+|          |   |-- NORMAL
+|          |   |-- PNEUMONIA
+|          |-- train
+|          |   |-- NORMAL
+|          |   |-- PNEUMONIA
+|          |-- val
+|              |-- NORMAL
+|              |-- PNEUMONIA
+|
 |-- Deep Aggregation Learning
 |    |
 |    |-- Image_Data [XRay]
